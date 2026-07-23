@@ -1,0 +1,7 @@
+Database is already initialized, no changes needed
+2026-05-01T19:04:24.523Z [solivage-travels] info: Database initialized via migration script
+2026-05-01T19:04:24.523Z [solivage-travels] [32minfo[39m: Database initialized via migration script
+2026-05-01T19:04:24.549Z [solivage-travels] info: Solivage Travels server running at http://localhost:3000
+2026-05-01T19:04:24.549Z [solivage-travels] [32minfo[39m: Solivage Travels server running at http://localhost:3000
+2026-05-01T19:04:24.550Z [solivage-travels] info: Admin panel at http://localhost:3000/admin
+2026-05-01T19:04:24.550Z [solivage-travels] [32minfo[39m: Admin panel at http://localhost:3000/admin

@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$10$sFQxE1QT851EAqbDSiju9.O1PYfojvCwK859udsZ17EFDdoEaR3vq",
+      "created_at": "2026-04-26T15:06:53.454Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1777649739702,
+      "name": "Test User",
+      "email": "test@example.com",
+      "phone": "+254700000000",
+      "vehicle": "Mercedes V-Class",
+      "service": "Airport Transfer",
+      "pickup": "JKIA",
+      "dropoff": "Westlands",
+      "date": "2026-12-25T10:00:00.000Z",
+      "notes": "Test booking",
+      "status": "pending",
+      "created_at": "2026-05-01T15:35:39.702Z"
+    },
+    {
+      "id": 1777216015138,
+      "name": "Jane Doe",
+      "email": "jane@test.com",
+      "vehicle": "Chauffeur Class",
+      "service": "Airport Transfer",
+      "pickup": "JKIA",
+      "dropoff": "Serena Hotel",
+      "date": "2024-12-25T10:00",
+      "status": "pending",
+      "created_at": "2026-04-26T15:06:55.138Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1777216015160,
+      "name": "Mike",
+      "email": "mike@test.com",
+      "message": "Hello!",
+      "status": "unread",
+      "created_at": "2026-04-26T15:06:55.160Z"
+    }
+  ],
+  "rates": [
+    {
+      "id": 1,
+      "vehicle": "Electric Class",
+      "service": "hourly",
+      "base_price": 2500
+    },
+    {
+      "id": 2,
+      "vehicle": "Electric Class",
+      "service": "oneway",
+      "base_price": 5000
+    },
+    {
+      "id": 3,
+      "vehicle": "Executive Class",
+      "service": "hourly",
+      "base_price": 3000
+    },
+    {
+      "id": 4,
+      "vehicle": "Executive Class",
+      "service": "oneway",
+      "base_price": 6000
+    },
+    {
+      "id": 5,
+      "vehicle": "Chauffeur Class",
+      "service": "hourly",
+      "base_price": 4000
+    },
+    {
+      "id": 6,
+      "vehicle": "Chauffeur Class",
+      "service": "oneway",
+      "base_price": 8000
+    },
+    {
+      "id": 7,
+      "vehicle": "Chauffeur XL",
+      "service": "hourly",
+      "base_price": 3500
+    },
+    {
+      "id": 8,
+      "vehicle": "Chauffeur XL",
+      "service": "oneway",
+      "base_price": 7000
+    }
+  ]
+}
